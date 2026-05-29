@@ -6,7 +6,7 @@ A collection of projects and tasks completed during my **CodeAlpha Internship Pr
 
 This repository showcases my internship work, practical implementations, and hands-on projects developed during the CodeAlpha internship journey.
 
-### kills & Technologies
+### Skills & Technologies
 
 * Python
 * Machine Learning
